@@ -1,3 +1,4 @@
+The following steps apply to MAC OS system:
 1. Put the files needed to be renamed in a folder called ‘target’
 2. Put ‘pdf_rename.py’ and ‘target’ into a same folder (let's call this folder 'pdf_rename')
 3. Open Terminal, go to the folder that contains ‘pdf_rename.py’ and ‘target’
